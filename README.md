@@ -28,22 +28,22 @@ The Data Warehouse incorporates several key features:
 ## DWH MODEL
 
 ### First Delivery
+![Model Delivery 1](https://github.com/SalmaAhmed6/AirLine-Company-Data-Warehouse/assets/153770479/e01b0ecd-4620-46f7-83a2-b3172a2b294b)
 
-![Model Delivery 1](https://github.com/al-ghaly/AirLine-Company-Illmon-Data-Warehouse/assets/61648960/f97c582a-54f8-47fe-a108-72eb2f9bc128)
 
 ### Second Delivery
+![Model Delivery 2](https://github.com/SalmaAhmed6/AirLine-Company-Data-Warehouse/assets/153770479/1b7ca15a-602a-4af5-8997-44030b1621b8)
 
-![Model Delivery 2](https://github.com/al-ghaly/AirLine-Company-Illmon-Data-Warehouse/assets/61648960/90dbca24-d517-4ac3-a18c-27ee3589c342)
 
 ### Data Marts (Sample)
 
 #### Reservations
+![Reservations](https://github.com/SalmaAhmed6/AirLine-Company-Data-Warehouse/assets/153770479/af56f464-433f-4bae-925d-f0caee7f9f01)
 
-![Reservations](https://github.com/al-ghaly/AirLine-Company-Illmon-Data-Warehouse/assets/61648960/00bc667e-250f-4c1f-996e-022029c127b2)
 
 #### Customer Care
+![Customer Care](https://github.com/SalmaAhmed6/AirLine-Company-Data-Warehouse/assets/153770479/eca10d32-47d9-445e-9f2d-9468b11f9c1c)
 
-![Customer Care](https://github.com/al-ghaly/AirLine-Company-Illmon-Data-Warehouse/assets/61648960/4115f129-f187-49c0-b89c-14432e0e50f1)
 
 ## Installation
 To set up the project on your local machine for development and testing purposes, follow these steps:
